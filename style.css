@@ -108,6 +108,6 @@ h4{
 .newslatter form input:last-child:hover{
     transform: scale(1.1);
     background-color: #c7003e;
-    transition: 0.4s;
+    transition: 0.3s;
 
 }
